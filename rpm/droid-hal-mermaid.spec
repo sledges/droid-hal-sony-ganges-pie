@@ -1,4 +1,5 @@
 %define device mermaid
+%define rpm_device mermaid
 
 %define lunch_device aosp_i4213-user
 

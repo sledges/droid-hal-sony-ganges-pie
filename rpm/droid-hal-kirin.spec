@@ -1,4 +1,5 @@
 %define device kirin
+%define rpm_device kirin
 
 %define lunch_device aosp_i4113-user
 
